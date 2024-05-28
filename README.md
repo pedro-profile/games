@@ -1,1 +1,1 @@
-# 🎰 Games <br> <a href="https://solutionsarray.github.io/games/" target="_blank">⬇</a> <br> <a href="https://solutionsarray.github.io/games/" target="_blank">https://solutionsarray.github.io/games/</a>
+# ♟️ Chess Game <br> <a href="https://solutionsarray.github.io/application/" target="_blank">⬇</a> <br> <a href="https://solutionsarray.github.io/application/" target="_blank">https://solutionsarray.github.io/files/</a>
