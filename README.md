@@ -1,2 +1,1 @@
-# games
-🎰 Games
+# 🎰 Games <br> <a href="https://solutionsarray.github.io/games/" target="_blank">⬇</a> <br> <a href="https://solutionsarray.github.io/games/" target="_blank">https://solutionsarray.github.io/games/</a>
